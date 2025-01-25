@@ -47,6 +47,7 @@ Example Responses:
   }
 
 List of Status Codes to Handle:
+Starts from -
 200, 201, 204, 400, 401, 403, 404, 405, 429, 500, 502, 503, 504
 */
 const statusCodes = {
